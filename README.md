@@ -3,6 +3,8 @@ ONNX model for facemask detection
 This code is based on https://github.com/chenjun2hao/facemask.
 Significant speed improvement after converting to ONNX
 
+facemaskdetect.onnx is the pretrained model.
+
 Requirements:-
 Create python environment with the following packages:-
 1. onnxruntime
