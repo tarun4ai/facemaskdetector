@@ -1,7 +1,7 @@
 # facemaskdetector
-ONNX model for facemask detection
+ONNX model for facemask detection.
 This code is based on https://github.com/chenjun2hao/facemask.
-Significant speed improvement after converting to ONNX
+I saw significant speed improvement after converting to ONNX.
 
 facemaskdetect.onnx is the pretrained model.
 
